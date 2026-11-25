@@ -1,5 +1,5 @@
 {
-    "version": "0.1.42",
+    "version": "0.1.43",
     "description": "Your iCloud on your PC: Notes, Reminders, Calendar, Contacts, Drive and Photos in one app. Not affiliated with Apple.",
     "homepage": "https://github.com/YashwanthKamireddi/Skykeep",
     "license": "GPL-3.0-only",
@@ -10,8 +10,8 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/YashwanthKamireddi/Skykeep/releases/download/v0.1.42/Skykeep_0.1.42_x64-setup.exe#/dl.7z",
-            "hash": "45366683db1e28a3c35097a58144f3b819b5a3372ff4ac7990ce67c9952e0b58"
+            "url": "https://github.com/YashwanthKamireddi/Skykeep/releases/download/v0.1.43/Skykeep_0.1.43_x64-setup.exe#/dl.7z",
+            "hash": "c5d889735fefac4c91fd998ff4af371e0a84d2279a0c1e9577bdf69cf57d5c18"
         }
     },
     "post_install": "Remove-Item \"$dir\\`$*\", \"$dir\\uninstall*\" -Force -Recurse -ErrorAction Ignore",
